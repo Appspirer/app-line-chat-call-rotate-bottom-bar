@@ -1,0 +1,6 @@
+export {default as Boarding} from './Boarding'
+export {default as Home} from './Home'
+export {default as Chat} from './Chat'
+export {default as Call} from './Call'
+export {default as ChatDetails} from './ChatDetails'
+export {default as CallDetails} from './CallDetails'
